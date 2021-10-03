@@ -1,3 +1,7 @@
 export const findIndex = (array, value) => {
-  return
+  
+if(array.length > 1){
+  array.findIndex(array,'Apple')
+}
+
 }
